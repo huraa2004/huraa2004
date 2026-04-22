@@ -127,4 +127,3 @@ Real-time control system for self-stabilizing hardware
 *Feel free to explore my repos, open issues, and collaborate. I'm always excited to work on interesting problems!*
 
 </div>
--->
