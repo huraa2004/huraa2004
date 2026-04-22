@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aditya Hura
+# Hello, I'm Aditya
 
 **Electrical Engineering & Management Student** | Embedded Systems | Robotics | Signal Processing  
 McMaster University `(Aug 2022 – July 2027)` | Hamilton, ON
