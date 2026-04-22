@@ -105,7 +105,7 @@ Real-time control system for self-stabilizing hardware
 <div align="center">
 
 📧 **Email:** [aditya.huraa@gmail.com](mailto:aditya.huraa@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/huraaditya](#https://www.linkedin.com/in/huraaditya/)  
+🔗 **LinkedIn:** [linkedin.com/in/huraaditya](https://www.linkedin.com/in/huraaditya/)  
 💻 **GitHub:** [github.com/huraa2004](#) *(you are here)*  
 
 </div>
