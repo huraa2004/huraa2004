@@ -88,18 +88,6 @@ Real-time control system for self-stabilizing hardware
 
 </details>
 
-<details open>
-<summary><b>Data Processing & Analytics Pipeline</b> — Python, SQL, Pandas</summary>
-
-High-throughput data ingestion & analysis system
-- Processed 50GB+ streaming datasets with Pandas
-- SQL queries reduced data retrieval time by 25%
-- Optimized for testing & system metrics tracking
-
-[View Repo →](#)
-
-</details>
-
 ---
 
 ## 📊 Quick Stats
